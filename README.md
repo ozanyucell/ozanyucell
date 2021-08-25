@@ -2,10 +2,16 @@
 
 <p align='center'>
   I live in Izmir, Turkey.
+</p>
+
+<p align='center'>
   I’m currently learning Linux and networking. I also try to code in Python.
+</p>
+  
+<p align='center'>
   I'm creating guides from my notes that I have taken while studying.
 </p>
- 
+
 <!--
 **ozanyucell/ozanyucell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
