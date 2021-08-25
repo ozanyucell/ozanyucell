@@ -2,6 +2,8 @@
 
 <p align='center'>
   I live in Izmir, Turkey.
+  I’m currently learning Linux and networking. I also try to code in Python.
+  I'm creating guides from my notes that I have taken while studying.
 </p>
  
 <!--
