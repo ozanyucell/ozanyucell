@@ -5,7 +5,8 @@
 </p>
 
 <p align='center'>
-  I’m currently learning Linux and networking. I also try to code in Python.
+  I’m currently learning Linux and networking. I also study coding in Python.
+  I have intermediate knowledge of Java and MySQL.
 </p>
   
 <p align='center'>
