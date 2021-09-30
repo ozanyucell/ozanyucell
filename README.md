@@ -10,7 +10,7 @@
 </p>
   
 <p align='center'>
-  I'm creating guides from my notes that I have taken while studying. Feel free to take a look!
+  I'm creating documents from my notes that I have taken while studying. Feel free to take a look!
 </p>
 
 <!--
