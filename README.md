@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-  I'm interested in Networking and Security.
+  I'm interested in Programming and Computer Security.
   I’m currently learning Linux and networking. I also study coding in Python.
   I have intermediate knowledge of Java and MySQL.
 </p>
