@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-  I'm a senior computer engineering undergraduate and interested in Programming and Computer Security.
+  I'm a computer engineering graduate and interested in Programming and Computer Security.
 </p>
   
 <p align='center'>
