@@ -1,10 +1,6 @@
 <h1 align='center'> Hi there 👋, I'm Ozan </h1>
 
 <p align='center'>
-  I live in Izmir, Turkey.
-</p>
-
-<p align='center'>
   I'm a computer engineering graduate and interested in Programming and Computer Security.
 </p>
   
